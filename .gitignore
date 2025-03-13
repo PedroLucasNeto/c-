@@ -1,0 +1,23 @@
+# Compiled files
+bin/
+obj/
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs & Temp
+*.log
+*.tmp
+
+# Docker files
+docker-compose.override.yml
+.env
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.pdb
